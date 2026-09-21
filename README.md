@@ -1,3 +1,3 @@
 # Capstone-Project-Flyrank-
 
-This is my readme File. 
+Hello, my name is Stiphen. This is my README from the repo.
